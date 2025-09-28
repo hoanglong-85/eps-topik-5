@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-15-1.mp3",
+  "hinhanh": "hoi-thoai-15-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "디안",
+      "korean": "왕민 씨, 지금 어디에 있어요?",
+      "vietnamese": "Wangmin, bây giờ bạn đang ở đâu?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "영화관 앞에 있어요.",
+      "vietnamese": "Mình đang ở trước rạp chiếu phim."
+    },
+    {
+      "speaker": "디안",
+      "korean": "저도 영화관 앞에 있어요. 무슨 옷을 입고 있어요?",
+      "vietnamese": "Mình cũng đang ở trước rạp chiếu phim. Bạn đang mặc quần áo gì?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "셔츠하고 반바지를 입고 있어요. 그리고 모자를 쓰고 있어요.",
+      "vietnamese": "Mình đang mặc áo sơ mi và quần short. Và mình đang đội mũ."
+    },
+    {
+      "speaker": "디안",
+      "korean": "아, 저기 왕민 씨가 있네요. 왕민 씨!",
+      "vietnamese": "À, kia rồi, Wangmin!"
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 지금 어디에 있어요?",
+      "vietnamese_question": "Bây giờ Wangmin đang ở đâu?",
+      "korean_answer": "영화관 앞에 있어요.",
+      "vietnamese_answer": "Ở trước rạp chiếu phim."
+    },
+    {
+      "korean_question": "왕민 씨는 무슨 옷을 입고 있어요?",
+      "vietnamese_question": "Wangmin đang mặc quần áo gì?",
+      "korean_answer": "셔츠하고 반바지를 입고 있어요. 그리고 모자를 쓰고 있어요.",
+      "vietnamese_answer": "Đang mặc áo sơ mi và quần short. Và đang đội mũ."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-15-2.mp3",
+  "hinhanh": "hoi-thoai-15-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "유수프",
+      "korean": "딜로바 씨, 뭐 봐요?",
+      "vietnamese": "Dilova, bạn đang xem gì vậy?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "인터넷 쇼핑몰에서 옷을 봐요. 이번 주 일요일에 친구 결혼식이 있어서 옷을 사야 돼요.",
+      "vietnamese": "Mình đang xem quần áo trên trang mua sắm trực tuyến. Chủ nhật tuần này có đám cưới của bạn nên mình phải mua quần áo."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "이 노란색 치마가 예쁘네요. 이 치마 어때요?",
+      "vietnamese": "Chiếc váy màu vàng này đẹp quá. Bạn thấy chiếc váy này thế nào?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "좀 짧아요. 저는 짧은 치마를 안 좋아해요.",
+      "vietnamese": "Hơi ngắn. Mình không thích váy ngắn."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "그럼 이 파란색 원피스는 어때요?",
+      "vietnamese": "Vậy còn chiếc đầm màu xanh này thì sao?"
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "딜로바 씨는 왜 옷을 사야 돼요?",
+      "vietnamese_question": "Tại sao Dilova phải mua quần áo?",
+      "korean_answer": "이번 주 일요일에 친구 결혼식이 있어서 옷을 사야 돼요.",
+      "vietnamese_answer": "Vì chủ nhật tuần này có đám cưới của bạn nên phải mua quần áo."
+    },
+    {
+      "korean_question": "딜로바 씨는 짧은 치마를 좋아해요?",
+      "vietnamese_question": "Dilova có thích váy ngắn không?",
+      "korean_answer": "아니요, 짧은 치마를 안 좋아해요.",
+      "vietnamese_answer": "Không, cô ấy không thích váy ngắn."
+    }
+  ]
+ }
+ ]
+
