@@ -1,0 +1,25 @@
+[{
+  "nguphap": "-고 있다 / -고 계시다 (상태)",
+  "loai": "동사 + -고 있다 / -고 계시다",
+  "ynghia": "-고 있다 được dùng với một số động từ như 입다, 신다, 쓰다, 들다, 벗다, 타다, 가지다, 알다, 좋아하다, 사랑하다 để biểu thị trạng thái tiếp diễn của hành động hoặc kết quả của hành động đang duy trì. Khi chủ ngữ là người được kính trọng, dùng -고 계시다 thay thế.",
+  "vidu": [
+    {"cau": "바지를 입고 있어요.", "nghia": "Đang mặc quần."},
+    {"cau": "안경을 쓰고 있어요.", "nghia": "Đang đeo kính."},
+    {"cau": "운동화를 신고 있어요.", "nghia": "Đang mang giày thể thao."},
+    {"cau": "할머니께서 안경을 쓰고 계세요.", "nghia": "Bà đang đeo kính (kính trọng)."}
+  ],
+  "luat": "Khi chủ ngữ là người cần kính trọng → dùng -고 계시다. Một số động từ đặc biệt dùng với -고 있다 để biểu thị trạng thái tiếp diễn hoặc kết quả duy trì."
+},
+{
+  "nguphap": "-(으)ㄴ",
+  "loai": "형용사 + -(으)ㄴ",
+  "ynghia": "Được thêm vào tính từ để mô tả trạng thái hiện tại của danh từ đi sau. Với một số tính từ như 재미있다, 재미없다, 맛있다, 맛없다 → dùng -는 thay cho -(으)ㄴ.",
+  "vidu": [
+    {"cau": "예쁜 바지를 샀어요.", "nghia": "Đã mua quần đẹp."},
+    {"cau": "따뜻한 잠바를 입어요.", "nghia": "Mặc áo khoác ấm."},
+    {"cau": "책상 위에 작은 가방이 있어요.", "nghia": "Có một cái túi nhỏ trên bàn."},
+    {"cau": "재미있는 책", "nghia": "Cuốn sách thú vị."},
+    {"cau": "맛있는 빵", "nghia": "Bánh ngon."}
+  ],
+  "luat": "Danh từ có 받침 → -은 (작다 → 작은), không có 받침 hoặc 받침 ㄹ → -ㄴ (예쁘다 → 예쁜). Một số tính từ đặc biệt như 재미있다, 맛있다 → dùng -는."
+}]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": {
+      "korean": "한국의 전통 의상",
+      "vietnamese": "Trang phục truyền thống của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한복은 한국의 전통 의상입니다. 한복은 색상이 화려하며, 디자인이 우아하고 아름답습니다. 그래서 한국 사람들은 설날이나 결혼식과 같이 특별하고 중요한 날에는 전통 한복을 입습니다.",
+        "vietnamese": "Hanbok là trang phục truyền thống của Hàn Quốc. Hanbok có màu sắc sặc sỡ, thiết kế thanh lịch và đẹp đẽ. Vì vậy, người Hàn Quốc mặc Hanbok truyền thống vào những ngày đặc biệt và quan trọng như tết hoặc đám cưới."
+      },
+      {
+        "korean": "남성 한복은 바지와 저고리, 조끼로 구성되고, 여성 한복은 치마와 저고리로 구성됩니다. 한복은 자연스러운 주름과 풍성한 실루엣으로 모든 체형의 사람들에게 어울린다는 장점이 있습니다.",
+        "vietnamese": "Hanbok nam bao gồm quần, áo jeogori và áo ghi lê, hanbok nữ bao gồm váy và jeogori. Hanbok có ưu điểm là phù hợp với tất cả mọi thân hình với những nếp gấp tự nhiên và kiểu dáng phong phú."
+      },
+      {
+        "korean": "그러나 전통 한복은 평상복으로 입기에는 다소 불편한 점이 있어 요즘에는 전통 한복을 개량하여 만든 생활한복을 입는 사람들이 많아지고 있습니다. 생활한복은 전통 한복보다 디자인이 단순하고 실용적이어서 언제나 편하게 입을 수 있습니다. 이러한 한복의 변화는 한복의 대중화에 기여하였습니다.",
+        "vietnamese": "Tuy nhiên, Hanbok truyền thống có phần bất tiện khi mặc so với quần áo thường ngày, vì vậy ngày nay nhiều người mặc Hanbok được cải tiến để thuận tiện cho sinh hoạt. Hanbok sinh hoạt cải tiến có thiết kế đơn giản và thiết thực hơn Hanbok truyền thống nên lúc nào cũng có thể mặc thoải mái. Sự thay đổi này đã góp phần phổ biến hóa Hanbok."
+      },
+      {
+        "korean": "한복은 입는 사람의 연령이나 역할 등에 따라 색깔과 디자인이 조금 다릅니다. 결혼식에서 신랑의 어머니는 보통 푸른색 계통의 점잖은 한복을 입고, 신부의 어머니는 분홍색 계통의 단아한 한복을 입습니다.",
+        "vietnamese": "Hanbok có màu sắc và thiết kế khác nhau đôi chút tùy thuộc vào độ tuổi và vai trò của người mặc. Trong đám cưới, mẹ của chú rể thường mặc Hanbok nhã nhặn màu xanh dương, còn mẹ của cô dâu thì mặc Hanbok nhã nhặn màu hồng."
+      },
+      {
+        "korean": "최근 들어서는 한복 페스티벌이나 한복 패션쇼 등을 통해 한복의 아름다움을 세계적으로 널리 알리려는 노력이 이어지고 있습니다.",
+        "vietnamese": "Gần đây, lễ hội Hanbok hoặc các buổi trình diễn thời trang Hanbok đang được tổ chức để quảng bá vẻ đẹp của Hanbok trên toàn thế giới."
+      }
+    ],
+    "voca": {
+      "전통 의상": "Trang phục truyền thống",
+      "화려하다": "Tráng lệ, sặc sỡ",
+      "디자인": "Thiết kế",
+      "우아하다": "Nhã nhặn, trang nhã",
+      "저고리": "Áo jeogori (áo trên của Hanbok)",
+      "조끼": "Áo ghi-lê",
+      "주름": "Nếp nhăn",
+      "풍성하다": "Phong phú, dồi dào",
+      "실루엣": "Đường nét, dáng vẻ",
+      "체형": "Thể hình",
+      "어울리다": "Phù hợp",
+      "평상복": "Quần áo thường ngày",
+      "개량하다": "Cải tiến",
+      "단순하다": "Đơn giản, mộc mạc",
+      "실용적": "Thiết thực",
+      "대중화": "Sự phổ biến",
+      "기여하다": "Đóng góp, góp phần",
+      "점잖다": "Đứng đắn, lịch lãm",
+      "계통": "Dòng, hệ",
+      "페스티벌": "Lễ hội"
+    }
+  }
+]
