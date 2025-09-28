@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "한국인의 종교",
+      "vietnamese": "Tôn giáo của người Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국은 개인의 종교가 존중 받는 다종교 국가입니다. 한국리서치의 '여론 속의 여론'(2023)에 따르면, 개신교를 믿는 사람(20%)이 가장 많고, 다음으로 불교(17%), 천주교(11%)의 순입니다. 이슬람교 등 기타 종교를 믿는 사람은 아주 적습니다. 신자 중에는 남성보다 여성이 많고, 나이가 적은 사람보다는 나이가 많은 사람의 비율이 더 높습니다. 그런데 종교를 가진 사람보다는 종교가 없는 사람이 더 많습니다.",
+        "vietnamese": "Hàn Quốc là một quốc gia đa tôn giáo mà tôn giáo cá nhân được tôn trọng. Theo nghiên cứu 'Dư luận trong dư luận' (2023), số người theo đạo Tin Lành (20%) là nhiều nhất, tiếp theo là Phật giáo (17%) và Công giáo (11%). Rất ít người theo đạo Hồi và các tôn giáo khác. Trong số các tín đồ, tỷ lệ phụ nữ nhiều hơn nam giới và người lớn tuổi nhiều hơn người trẻ tuổi. Tuy nhiên, người không theo tôn giáo nhiều hơn người có tôn giáo."
+      },
+      {
+        "korean": "개신교 신자들은 교회에서 예배를 드립니다. 그리고 다양한 모임과 활동을 통해 신앙생활을 합니다. 천주교 신자들은 성당에서 미사를 드리며 개신교 신자들처럼 다양한 종교 활동을 합니다. 불교 신자들은 절에 가서 예불을 드립니다.",
+        "vietnamese": "Các tín đồ đạo Tin Lành làm lễ thánh tại nhà thờ và sống đời sống tín ngưỡng thông qua các buổi họp và hoạt động đa dạng. Các tín đồ Công giáo làm lễ Misa và hoạt động tôn giáo tại Thánh đường giống như các tín đồ Tin Lành. Các tín đồ Phật giáo đến chùa để lễ Phật."
+      },
+      {
+        "korean": "한국에서는 예수님의 탄생일인 '크리스마스(양력 12월 25일)'와 부처님의 탄생일인 '부처님 오신 날(음력 4월 8일)'이 모두 공휴일로 지정되어 있습니다. 그날이 되면 교회나 절에 사람들이 많이 모입니다.",
+        "vietnamese": "Ở Hàn Quốc, ngày sinh của Chúa Giêsu (ngày 25 tháng 12 dương lịch) và ngày sinh của Đức Phật (ngày 8 tháng 4 âm lịch) đều được chỉ định là ngày nghỉ lễ. Vào những ngày này, rất nhiều người tập trung tại các nhà thờ hoặc chùa."
+      }
+    ],
+    "voca": {
+      "고장이 나다": "Bị hư, hỏng",
+      "남성": "Nam giới",
+      "다종교": "Đa tôn giáo",
+      "여성": "Nữ giới",
+      "여론": "Dư luận",
+      "비율": "Tỷ lệ",
+      "속": "Bên trong",
+      "높다": "Cao",
+      "따르다": "Theo, tuân theo",
+      "신앙생활": "Đời sống sinh hoạt tín ngưỡng",
+      "개신교": "Đạo Tin Lành",
+      "성당": "Thánh đường",
+      "불교": "Đạo Phật",
+      "미사를 드리다": "Dâng lễ Misa",
+      "천주교": "Đạo Thiên Chúa (Công giáo)",
+      "지정되다": "Được quy định",
+      "이슬람교": "Đạo Hồi",
+      "재료": "Vật liệu, tài liệu, nguyên liệu, chất liệu",
+      "신자": "Tín đồ",
+      "치료": "Sự chữa trị, điều trị"
+    }
+  }
+]

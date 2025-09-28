@@ -1,0 +1,94 @@
+
+[
+{
+  "audio": "hoi-thoai-13-1.mp3",
+  "hinhanh": "hoi-thoai-13-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "다린두",
+      "korean": "닛차난 씨는 주말에 뭐 할 거예요?",
+      "vietnamese": "Cuối tuần này Nitchanan sẽ làm gì?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "저는 태국 식당에 가서 고향 음식을 먹을 거예요. 다린두 씨는 주말에 뭐 할 거예요?",
+      "vietnamese": "Tôi sẽ đi nhà hàng Thái để ăn món ăn quê hương. Còn Tharindu cuối tuần sẽ làm gì?"
+    },
+    {
+      "speaker": "다린두",
+      "korean": "저는 친구를 만날 거예요. 친구하고 탁구를 칠 거예요.",
+      "vietnamese": "Tôi sẽ gặp bạn. Tôi sẽ chơi bóng bàn với bạn."
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "다린두 씨, 그럼 주말 잘 보내세요.",
+      "vietnamese": "Tharindu, vậy chúc bạn cuối tuần vui vẻ."
+    },
+    {
+      "speaker": "다린두",
+      "korean": "닛차난 씨도요.",
+      "vietnamese": "Nitchanan cũng vậy nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "닛차난 씨는 주말에 어디에 갈 거예요?",
+      "vietnamese_question": "Cuối tuần này Nitchanan sẽ đi đâu?",
+      "korean_answer": "태국 식당에 갈 거예요.",
+      "vietnamese_answer": "Sẽ đi nhà hàng Thái."
+    },
+    {
+      "korean_question": "다린두 씨는 주말에 누구를 만날 거예요?",
+      "vietnamese_question": "Cuối tuần này Tharindu sẽ gặp ai?",
+      "korean_answer": "친구를 만날 거예요.",
+      "vietnamese_answer": "Sẽ gặp bạn."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-13-2.mp3",
+  "hinhanh": "hoi-thoai-13-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "다라",
+      "korean": "아지자 씨, 오늘 친구를 만날 거예요?",
+      "vietnamese": "Aziza, hôm nay bạn sẽ gặp bạn bè à?"
+    },
+    {
+      "speaker": "아지자",
+      "korean": "아니요, 친구가 너무 바빠서 못 만나요.",
+      "vietnamese": "Không, bạn mình quá bận nên không thể gặp."
+    },
+    {
+      "speaker": "다라",
+      "korean": "그럼 뭐 할 거예요?",
+      "vietnamese": "Vậy bạn sẽ làm gì?"
+    },
+    {
+      "speaker": "아지자",
+      "korean": "기숙사에서 책을 읽을 거예요. 다라 씨는 뭐 할 거예요?",
+      "vietnamese": "Mình sẽ đọc sách ở ký túc xá. Còn Dara thì sao?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "어제 일을 많이 해서 피곤해요. 오늘은 쉴 거예요.",
+      "vietnamese": "Hôm qua làm nhiều nên mình mệt. Hôm nay mình sẽ nghỉ ngơi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아지자 씨는 오늘 친구를 만날 거예요?",
+      "vietnamese_question": "Hôm nay Aziza sẽ gặp bạn à?",
+      "korean_answer": "아니요, 친구가 바빠서 못 만나요.",
+      "vietnamese_answer": "Không, bạn bận nên không gặp được."
+    },
+    {
+      "korean_question": "다라 씨는 오늘 뭐 할 거예요?",
+      "vietnamese_question": "Hôm nay Dara sẽ làm gì?",
+      "korean_answer": "쉴 거예요.",
+      "vietnamese_answer": "Sẽ nghỉ ngơi."
+    }
+  ]
+ }
+ ]
+

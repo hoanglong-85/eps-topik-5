@@ -1,0 +1,25 @@
+[{
+  "nguphap": "-(으)ㄹ 거예요",
+  "loai": "동사 + -(으)ㄹ 거예요",
+  "ynghia": "Được thêm vào động từ để biểu thị kế hoạch, ý định của ngôi thứ nhất hoặc thứ hai; khi chủ ngữ là ngôi thứ ba, biểu thị dự đoán hoặc phỏng đoán về sự việc.",
+  "vidu": [
+    {"cau": "프엉은 지금 회사에 있을 거예요.", "nghia": "Phượng bây giờ chắc sẽ ở công ty."},
+    {"cau": "밥을 먹을 거예요.", "nghia": "Sẽ ăn cơm."},
+    {"cau": "기숙사에서 쉴 거예요.", "nghia": "Sẽ nghỉ ở ký túc xá."},
+    {"cau": "고향 음식을 만들 거예요.", "nghia": "Sẽ nấu món ăn quê hương."}
+  ],
+  "luat": "Động từ có 받침 → -을 거예요 (먹다 → 먹을 거예요), không có 받침 hoặc 받침 ㄹ → -ㄹ 거예요 (가다 → 갈 거예요)."
+},
+{
+  "nguphap": "못",
+  "loai": "동사 + 못",
+  "ynghia": "Được đặt trước động từ để biểu thị chủ ngữ không thể thực hiện hành động do thiếu khả năng hoặc lý do khác. Khác với 안 chỉ đơn giản phủ định hay chủ ý không làm.",
+  "vidu": [
+    {"cau": "주말에는 회사에 안 가요.", "nghia": "Cuối tuần tôi không đi làm."},
+    {"cau": "시간이 없어서 친구를 못 만나요.", "nghia": "Vì không có thời gian nên tôi không thể gặp bạn."},
+    {"cau": "바빠서 밥을 못 먹었어요.", "nghia": "Vì bận nên tôi không thể ăn cơm."},
+    {"cau": "비가 와서 운동을 못 해요.", "nghia": "Vì trời mưa nên tôi không thể tập thể dục."},
+    {"cau": "공부를 못 해요.", "nghia": "Tôi không thể học (chứ không phải 못 공부해요)."}
+  ],
+  "luat": "Khi phủ định động từ kết hợp với 명사 + -하다, 못 được đặt giữa danh từ và 하다 (예: 공부를 못 해요). 못 biểu thị không có khả năng thực hiện hành động, khác với 안 chỉ phủ định thông thường hoặc ý chí."
+}]
