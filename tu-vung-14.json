@@ -1,0 +1,177 @@
+[
+    {
+        "korean": " 위치 ",
+        "vietnamese": " Vị trí\r",
+        "audio": "tu-vung-14-1.mp3"
+    },
+    {
+        "korean": " 방향 ",
+        "vietnamese": " Phương hướng\r",
+        "audio": "tu-vung-14-2.mp3"
+    },
+    {
+        "korean": " 위 ",
+        "vietnamese": " Bên trên\r",
+        "audio": "tu-vung-14-3.mp3"
+    },
+    {
+        "korean": " 아래\/밑 ",
+        "vietnamese": " Bên dưới\r",
+        "audio": "tu-vung-14-4.mp3"
+    },
+    {
+        "korean": " 앞 ",
+        "vietnamese": " Phía trước\r",
+        "audio": "tu-vung-14-5.mp3"
+    },
+    {
+        "korean": " 뒤 ",
+        "vietnamese": " Phía sau\r",
+        "audio": "tu-vung-14-6.mp3"
+    },
+    {
+        "korean": " 안 ",
+        "vietnamese": " Trong (Chỉ vị trí)\r",
+        "audio": "tu-vung-14-7.mp3"
+    },
+    {
+        "korean": " 밖 ",
+        "vietnamese": " Ngoài (Chỉ vị trí)\r",
+        "audio": "tu-vung-14-8.mp3"
+    },
+    {
+        "korean": " 옆 ",
+        "vietnamese": " Cạnh (Chỉ vị trí)\r",
+        "audio": "tu-vung-14-9.mp3"
+    },
+    {
+        "korean": " 사이 ",
+        "vietnamese": " Giữa (Chỉ vị trí)\r",
+        "audio": "tu-vung-14-10.mp3"
+    },
+    {
+        "korean": " 왼쪽 ",
+        "vietnamese": " Bên trái (Chỉ hướng, phía)\r",
+        "audio": "tu-vung-14-11.mp3"
+    },
+    {
+        "korean": " 오른쪽 ",
+        "vietnamese": " Bên phải (Chỉ hướng, phía)\r",
+        "audio": "tu-vung-14-12.mp3"
+    },
+    {
+        "korean": " 건너편\/맞은편 ",
+        "vietnamese": " Phía đối diện (Chỉ hướng, phía)\r",
+        "audio": "tu-vung-14-13.mp3"
+    },
+    {
+        "korean": " 이쪽 ",
+        "vietnamese": " Phía này (Chỉ hướng, phía)\r",
+        "audio": "tu-vung-14-14.mp3"
+    },
+    {
+        "korean": " 저쪽 ",
+        "vietnamese": " Phía kia (Chỉ hướng, phía)\r",
+        "audio": "tu-vung-14-15.mp3"
+    },
+    {
+        "korean": " 그쪽 ",
+        "vietnamese": " Phía đó (Chỉ hướng, phía)\r",
+        "audio": "tu-vung-14-16.mp3"
+    },
+    {
+        "korean": " 어느 쪽 ",
+        "vietnamese": " Phía nào\r",
+        "audio": "tu-vung-14-17.mp3"
+    },
+    {
+        "korean": " 층 ",
+        "vietnamese": " Tầng\r",
+        "audio": "tu-vung-14-18.mp3"
+    },
+    {
+        "korean": " 이동 동사 ",
+        "vietnamese": " Động từ chuyển động\r",
+        "audio": "tu-vung-14-19.mp3"
+    },
+    {
+        "korean": " 내려가다 ",
+        "vietnamese": " Đi xuống (xa dần người nói)\r",
+        "audio": "tu-vung-14-20.mp3"
+    },
+    {
+        "korean": " 내려오다 ",
+        "vietnamese": " Đi xuống (lại gần người nói)\r",
+        "audio": "tu-vung-14-21.mp3"
+    },
+    {
+        "korean": " 올라가다 ",
+        "vietnamese": " Đi lên (xa dần người nói)\r",
+        "audio": "tu-vung-14-22.mp3"
+    },
+    {
+        "korean": " 올라오다 ",
+        "vietnamese": " Đi lên (lại gần người nói)\r",
+        "audio": "tu-vung-14-23.mp3"
+    },
+    {
+        "korean": " 들어가다 ",
+        "vietnamese": " Đi vào (xa dần người nói)\r",
+        "audio": "tu-vung-14-24.mp3"
+    },
+    {
+        "korean": " 들어오다 ",
+        "vietnamese": " Đi vào (lại gần người nói)\r",
+        "audio": "tu-vung-14-25.mp3"
+    },
+    {
+        "korean": " 나가다 ",
+        "vietnamese": " Đi ra (xa dần người nói)\r",
+        "audio": "tu-vung-14-26.mp3"
+    },
+    {
+        "korean": " 나오다 ",
+        "vietnamese": " Đi ra (lại gần người nói)\r",
+        "audio": "tu-vung-14-27.mp3"
+    },
+    {
+        "korean": " 건너가다 ",
+        "vietnamese": " Đi qua, đi băng qua\r",
+        "audio": "tu-vung-14-28.mp3"
+    },
+    {
+        "korean": " 횡단보도 ",
+        "vietnamese": " Lối sang đường\r",
+        "audio": "tu-vung-14-29.mp3"
+    },
+    {
+        "korean": " 육교 ",
+        "vietnamese": " Cầu vượt\r",
+        "audio": "tu-vung-14-30.mp3"
+    },
+    {
+        "korean": " 옥상 ",
+        "vietnamese": " Tầng thượng\r",
+        "audio": "tu-vung-14-31.mp3"
+    },
+    {
+        "korean": " 지하 ",
+        "vietnamese": " Tầng hầm\r",
+        "audio": "tu-vung-14-32.mp3"
+    },
+    {
+        "korean": " 근처 ",
+        "vietnamese": " Quanh đây, gần đây\r",
+        "audio": "tu-vung-14-33.mp3"
+    },
+    {
+        "korean": " 사거리 ",
+        "vietnamese": " Ngã tư\r",
+        "audio": "tu-vung-14-34.mp3"
+    },
+    {
+        "korean": " 마트 ",
+        "vietnamese": " Siêu thị",
+        "audio": "tu-vung-14-35.mp3"
+    }
+]
