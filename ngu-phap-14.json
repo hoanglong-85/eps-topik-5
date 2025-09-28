@@ -1,0 +1,23 @@
+[{
+  "nguphap": "(으)로 (방향)",
+  "loai": "명사 + (으)로",
+  "ynghia": "Khi kết hợp với danh từ chỉ địa điểm, (으)로 biểu thị hướng đi hoặc điểm đến của hành động.",
+  "vidu": [
+    {"cau": "여기에서 오른쪽으로 가야 해요.", "nghia": "Bạn phải đi về phía bên phải từ đây."},
+    {"cau": "마두 씨는 어디로 갔어요?", "nghia": "Madu đã đi đâu rồi?"},
+    {"cau": "이 기차는 서울로 가요.", "nghia": "Chuyến tàu này đi tới Seoul."}
+  ],
+  "luat": "Nếu danh từ có 받침 → 으로 (오른쪽 → 오른쪽으로), nếu không có 받침 hoặc kết thúc bằng 받침 ㄹ → 로 (아래 → 아래로, 서울 → 서울로). Lưu ý (으)로 khi kết hợp với danh từ cụ thể biểu thị phương tiện, công cụ, vật liệu; khi kết hợp với danh từ địa điểm biểu thị hướng đi hoặc điểm đến."
+},
+{
+  "nguphap": "-(으)세요",
+  "loai": "동사 + -(으)세요",
+  "ynghia": "Được thêm vào động từ để ra lệnh hoặc yêu cầu người nghe thực hiện một hành động. Khác với -아/어 주세요 dùng để nhờ vả hoặc yêu cầu một cách lịch sự.",
+  "vidu": [
+    {"cau": "창문을 닦으세요.", "nghia": "Hãy lau cửa sổ."},
+    {"cau": "2층으로 올라가세요.", "nghia": "Hãy lên tầng 2."},
+    {"cau": "내일은 일찍 출근하세요.", "nghia": "Hãy đi làm sớm vào ngày mai."},
+    {"cau": "문을 좀 닫아 주세요.", "nghia": "Hãy đóng cửa giúp tôi (lịch sự)."}
+  ],
+  "luat": "Động từ có 받침 → -으세요 (닦다 → 닦으세요), không có 받침 hoặc kết thúc bằng 받침 ㄹ → -세요 (가다 → 가세요, 밀다 → 미세요)."
+}]
