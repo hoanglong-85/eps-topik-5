@@ -1,0 +1,89 @@
+
+[
+{
+  "audio": "hoi-thoai-14-1.mp3",
+  "hinhanh": "hoi-thoai-14-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "칼로",
+      "korean": "왕민 씨, 어디 가요?",
+      "vietnamese": "Wangmin, bạn đi đâu vậy?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "마두 씨 방에 가요. 마두 씨 방은 어디에 있어요?",
+      "vietnamese": "Mình đi đến phòng của Madhu. Phòng của Madhu ở đâu vậy?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "마두 씨 방은 휴게실 옆에 있어요. 2층으로 가야 돼요.",
+      "vietnamese": "Phòng của Madhu ở bên cạnh phòng nghỉ. Bạn phải lên tầng 2."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "고마워요.",
+      "vietnamese": "Cảm ơn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 어디에 가요?",
+      "vietnamese_question": "Wangmin đi đâu vậy?",
+      "korean_answer": "마두 씨 방에 가요.",
+      "vietnamese_answer": "Đi đến phòng của Madhu."
+    },
+    {
+      "korean_question": "마두 씨의 방은 몇 층에 있어요?",
+      "vietnamese_question": "Phòng của Madhu ở tầng mấy?",
+      "korean_answer": "2층에 있어요.",
+      "vietnamese_answer": "Ở tầng 2."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-14-2.mp3",
+  "hinhanh": "hoi-thoai-14-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "유수프",
+      "korean": "회사 근처에 약국이 있어요?",
+      "vietnamese": "Gần công ty có hiệu thuốc không?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "네, 가까워요. 마트 안에 있어요.",
+      "vietnamese": "Có, gần lắm. Nó ở trong siêu thị."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "마트에 어떻게 가요?",
+      "vietnamese": "Đi đến siêu thị bằng cách nào?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "회사 앞 사거리에서 오른쪽으로 가세요. 그러면 마트가 있어요.",
+      "vietnamese": "Từ ngã tư trước công ty rẽ phải. Sau đó sẽ thấy siêu thị."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "감사합니다.",
+      "vietnamese": "Cảm ơn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "약국이 어디에 있어요?",
+      "vietnamese_question": "Hiệu thuốc ở đâu?",
+      "korean_answer": "마트 안에 있어요.",
+      "vietnamese_answer": "Ở trong siêu thị."
+    },
+    {
+      "korean_question": "마트에 어떻게 가요?",
+      "vietnamese_question": "Đi đến siêu thị bằng cách nào?",
+      "korean_answer": "회사 앞 사거리에서 오른쪽으로 가세요.",
+      "vietnamese_answer": "Từ ngã tư trước công ty rẽ phải."
+    }
+  ]
+ }
+ ]
+
